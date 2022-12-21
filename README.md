@@ -1,4 +1,6 @@
-### Hi there 👋
+### ✏️ MY Velog ✏️ <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://velog.io/@pong_jin"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
 
 <!--
 **pongjin/pongjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
