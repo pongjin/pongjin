@@ -1,5 +1,7 @@
 ### ✏️ My Studies ✏️ <p>
+🤗 : https://huggingface.co/pongjin pretrained ASR model, zero-shot model  <br>
 
+💻 : https://velog.io/@pong_jin
 <!--
 **pongjin/pongjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
